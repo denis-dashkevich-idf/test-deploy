@@ -17,4 +17,4 @@ jobs:
         username: 3868932_admin
         port: 21
         password: ${{ secrets.PROD_FTP }}
-        local-dir: ./denisimo.atwebpages.com/
+        local-dir: /denisimo.atwebpages.com/
