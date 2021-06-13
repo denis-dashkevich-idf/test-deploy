@@ -15,5 +15,5 @@ jobs:
       with:
         server: f31-preview.runhosting.com
         username: 3868932_admin
-        port: 21
+        port: 221
         password: ${{ secrets.PROD_FTP }}
